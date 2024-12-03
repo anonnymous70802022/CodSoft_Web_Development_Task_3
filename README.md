@@ -1,2 +1,2 @@
-# CodSoft_Web_Development_Task_3
-Codsoft_Web_Development_Task_3
+# CodSoft_Web_Development_Task_3_Calculator
+Codsoft_Web_Development_Task_3_Calculator
